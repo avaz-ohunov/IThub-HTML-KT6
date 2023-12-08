@@ -1,2 +1,4 @@
 Сверстать страницу по образцу  
-https://htmldemo.net/trio/trio/index-shop-classic.html
+https://htmldemo.net/trio/trio/index-shop-classic.html  
+  
+P.S. адаптивки нет, открывать только на десктопных устройствах, либо с верисей для ПК на мобилках
